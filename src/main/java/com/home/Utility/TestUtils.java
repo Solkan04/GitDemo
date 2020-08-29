@@ -10,6 +10,7 @@ public class TestUtils
     {
         System.out.println( "Hello World!" );
         method1();
+        test2();
     }
     public static void method1()
     {
@@ -19,4 +20,9 @@ public class TestUtils
     {
     	System.out.println("Message");
     }
+    public static void test2()
+    {
+    	System.out.println("Message");
+    }
+
 }
