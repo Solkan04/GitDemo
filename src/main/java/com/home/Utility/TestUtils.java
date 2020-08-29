@@ -10,4 +10,8 @@ public class TestUtils
     {
         System.out.println( "Hello World!" );
     }
+    public static void test()
+    {
+    	System.out.println("Message");
+    }
 }
