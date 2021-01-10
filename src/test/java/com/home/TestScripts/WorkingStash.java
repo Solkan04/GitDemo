@@ -10,8 +10,14 @@ public class WorkingStash {
     //4532453
     //453453
 
+<<<<<<< HEAD
     public static void message()
     {
 
+=======
+    public void getOut()
+    {
+        
+>>>>>>> 6b0b3ef... Committing Mahesh
     }
 }
